@@ -1,2 +1,2 @@
-# CondePC
-conde社区pc端
+# CNodePC
+cnode社区pc端
